@@ -1,6 +1,6 @@
 # Sup 👋
 
-My name is Adriel, I'm a software engineer with a BEng in Computer Engineer currently living in Brazil. I like coding, aviation and drinks.
+My name is Adriel, I'm a software engineer with a BEng in Computer Engineer currently living in Brazil.
 
 ## Languages and tools
 
